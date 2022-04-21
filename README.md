@@ -11,9 +11,3 @@ diagnosing brain tumors. Therefore, development of systems for the detection and
 at first sight of the imaging modality like in Magnetic Resonance Imaging, the proper visualization of the tumor cells and its differentiation with its nearby
 soft tissues is somewhat difficult task which may be due to the presence of low illumination in imaging modalities or its large presence of data or several
 complexity and variance of tumors-like unstructured shape, viable size and unpredictable locations of the tumor.
-
-LOGISTIC REGRESSION GRAPH:
-![LR](https://user-images.githubusercontent.com/100916984/164477887-7f88a353-e3c8-4148-b515-17e50a6658f5.png)
-
-SUPPORT VECTOR MACHINE GRAPH:
-![SVM](https://user-images.githubusercontent.com/100916984/164478034-5dbb0fd8-ebcc-4fb1-a9db-0a6d2535b782.png)
